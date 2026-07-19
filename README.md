@@ -46,5 +46,6 @@ PA5 接ESP32-S3的GPIO18
 
 📂 仓库文件说明
 ESP32_Bluetooth_Voice_Robot_Servo/：项目完整源代码Arduino工程文件
-
+test_SERV：360°舵机零点校准工具
+Voice.txt：语音文件 
 
